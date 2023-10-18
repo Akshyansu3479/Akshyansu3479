@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **akshyansupritam7@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/akshyansu-pritam-b39666220/</h3>
 <p align="left">
 </p>
 
