@@ -1,37 +1,74 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Akshyansu Pritam
-========================================================================================================================================
+# Hey, I'm Akshyansu Pritam 👋
 
-AWS Certified Solutions Architect – Associate, Full Stack Developer, ML Enthusiast.
------------------------------------------------------------------------------------
+### Backend Software Engineer · AWS Certified Solutions Architect · Full Stack Developer
 
-As a tech enthusiast, I specialize in DevOps, AWS, Full Stack Web Development, and Machine Learning. AWS certified, I design scalable solutions. With expertise in Full Stack Web Development, I excel in dynamic web apps. Passionate about Machine Learning, I explore data science, building predictive models. Let's connect and innovate together!
+I build backend services, event-driven systems, and AI-powered tools using **Java, Spring Boot, and AWS**. I also work with the **MERN stack**, connecting reliable backends with practical, usable interfaces.
 
-* 🖥️  See my portfolio at [MyPortfolio](http://https://personal-portfolio-psi-tan.vercel.app/)
-* ✉️  You can contact me at [akshyansupritam7@gmail.com](mailto:akshyansupritam7@gmail.com)
-* 🧠  I'm learning DevOps, GAN.
-* 🤝  I'm open to collaborating on Full Stack Projects, ML Projects.
-* ⚡  I am Batman, Tell Everyone.
+Currently a **Software Engineer (Java and AI)**, working on recommendation services, configurable query engines, and AI automation—from system design to production delivery.
 
-### Skills
+Outside work, you'll find me exploring **Go and Rust**, building projects, and occasionally claiming to be Batman.
+
+[Portfolio](https://personal-portfolio-psi-tan.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/akshyansu) · [Email](mailto:akshyansupritam7@gmail.com)
+
+---
+
+## What I've Been Building 🛠️
+
+- **AI automation:** Built a database-update agent using AWS Bedrock and Lambda, reducing manual effort and cross-team dependencies by approximately **30%**.
+- **Event-driven pipelines:** Architected a recommendation pipeline using Kinesis, Lambda, and S3, processing **thousands of events per second** and reducing ingestion latency by **40%**.
+- **Backend performance:** Improved recommendation retrieval speed by **30%** using Spring Boot and Redis caching.
+- **Configurable systems:** Built a recursive AST parser and query engine to support nested filter expressions through JSON configuration.
+
+## Featured Projects 🚀
+
+### NorthWind Knowledge Assistant
+A document-based AI assistant that retrieves relevant information and answers questions with source citations.
+
+- Built a RAG pipeline to ingest, chunk, and index multi-format documents.
+- Combined hybrid search with source-linked responses to improve answer grounding.
+- Automated a five-service Docker setup with a single bootstrap command.
+- Added both a Streamlit interface and a CLI.
+
+**Stack:** RAGFlow · Elasticsearch · Ollama · Redis · MinIO · Docker · Streamlit
+
+### URL Shortener
+A cloud-deployed URL shortener built to handle traffic spikes with automatic scaling.
+
+- Implemented rate limiting and access controls.
+- Configured CPU-based EC2 Auto Scaling to adjust capacity with demand.
+- Used an Application Load Balancer to distribute traffic and reduce average response time by **30%**.
+
+**Stack:** React · AWS EC2 · Auto Scaling · Application Load Balancer
+
+## Tech Stack 💻
+
+| Area | Technologies |
+| :--- | :--- |
+| AI & Retrieval | RAGFlow, Ollama, RAG, Hybrid Search |
+| Backend | Spring Boot, Spring, Node.js, Express.js, REST APIs |
+| Cloud | AWS EC2, S3, Lambda, Kinesis, Bedrock, CloudWatch |
+| Databases & Search | PostgreSQL, MongoDB, Redis, Elasticsearch |
+| Frontend | React, HTML, CSS, Tailwind CSS |
+| Infrastructure & Tools | Docker, Git, Auto Scaling, Elastic Load Balancing |
+| Messaging & Architecture | Kafka, Microservices, Event-Driven Architecture |
+| Languages | Java, Python, C++, JavaScript, SQL |
 
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
-</p>
+## Certifications ☁️
 
+- AWS Certified Solutions Architect – Associate
+- AWS Certified Cloud Practitioner
 
-### Socials
+## A Little More About Me ⚡
 
-<p align="left"> <a href="https://www.github.com/Akshyansu3479" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/akshyansu" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/akshyansu-pritam-b39666220" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/AkshyansuPritam" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+- 🎓 B.Tech in Computer Science from **VIT**, with a **9.01 CGPA**.
+- 🌱 Currently exploring **Go, Rust, and backend system design with Java And AI also**.
+- 🤝 Open to collaborating on **backend services, full stack applications, and AI tools**.
+- 💬 Happy to talk about **Java, Spring Boot, AWS, APIs, and recommendation systems**.
+- 🦇 I am Batman. Apparently, putting it on GitHub counts as poor secret-identity management.
 
-### Badges
+---
 
-<b>My GitHub Stats</b>
+### Let's build something useful.
 
-<a href="http://www.github.com/Akshyansu3479"><img src="https://github-readme-stats.vercel.app/api?username=Akshyansu3479&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Akshyansu3479's GitHub stats" /></a>
-
-<a href="http://www.github.com/Akshyansu3479"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshyansu3479&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/Akshyansu3479" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshyansu3479&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-
+Reach me at **[akshyansupritam7@gmail.com](mailto:akshyansupritam7@gmail.com)**.
